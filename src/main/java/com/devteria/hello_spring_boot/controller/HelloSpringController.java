@@ -9,4 +9,6 @@ public class HelloSpringController {
     String sayHello() {
         return "Hello spring boot 3.0.1";
     }
+    int a = 5;
+    int b = 6;
 }
